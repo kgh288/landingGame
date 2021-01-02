@@ -1,0 +1,30 @@
+raySelectionWithOctree time went higher when I selected a high place or a rugged place which probably contains more leafboxes.
+
+Octree create time: 811ms
+raySelection time: 0ms
+raySelection time: 5ms
+raySelection time: 2ms
+raySelection time: 1ms
+raySelection time: 1ms
+raySelection time: 2ms
+raySelection time: 3ms
+raySelection time: 2ms
+raySelection time: 3ms
+raySelection time: 3ms
+raySelection time: 2ms
+raySelection time: 3ms
+raySelection time: 3ms
+raySelection time: 3ms
+raySelection time: 3ms
+raySelection time: 3ms
+raySelection time: 2ms
+raySelection time: 2ms
+raySelection time: 3ms
+raySelection time: 3ms
+raySelection time: 3ms
+raySelection time: 3ms
+raySelection time: 2ms
+raySelection time: 2ms
+raySelection time: 3ms
+raySelection time: 2ms
+raySelection time: 3ms
